@@ -1,0 +1,2 @@
+Display Todos in a table using JSTL Tags for that Add Dependency for jstl
+<%@ taglib uri="http://java.sun.com/jsp/jstl/core" prefix="c"%>
